@@ -1,1 +1,1 @@
-# Hotel-Manager
+# Hospital-Manager
